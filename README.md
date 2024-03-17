@@ -12,4 +12,7 @@ Implementada em Java, a calculadora utiliza o framework Swing para criar e geren
 
 Em resumo, a calculadora desenvolvida em Java com Swing JFrame é uma ferramenta versátil e eficiente para realizar cálculos aritméticos de forma rápida e prática, proporcionando uma experiência de usuário intuitiva e acessível.
 
+# Foto da Aplicação
+
+
 ![Imagen da calculadora em java](https://github.com/ewertondrigues02/calculadora-java/assets/106437473/d6af02bc-fd3b-4df8-a82a-f96089a52e0c)
