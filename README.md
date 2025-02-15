@@ -1,18 +1,61 @@
-# Calculadora em Java e a biblioteca Swing JFrame
+# Calculadora Simples em Java (Swing)
 
-Aqui está uma descrição de uma calculadora simples feita em Java usando Swing JFrame:
+## Descrição
+Este projeto é uma calculadora simples desenvolvida em Java utilizando a biblioteca Swing para a interface gráfica. A calculadora permite realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
 
-A calculadora desenvolvida em Java com Swing JFrame é uma aplicação que oferece funcionalidades básicas de cálculo aritmético em uma interface gráfica intuitiva. Composta por uma janela principal que exibe os números, operadores e resultados, esta calculadora proporciona uma experiência de usuário amigável.
+## Funcionalidades
+- Interface gráfica intuitiva com botões numéricos e operadores matemáticos.
+- Suporte para as quatro operações matemáticas básicas.
+- Exibição dos cálculos no display.
+- Botão de limpar para resetar a calculadora.
 
-A interface da calculadora apresenta botões numéricos de 0 a 9, botões para operações matemáticas como adição, subtração, multiplicação e divisão, além de botões para cálculos especiais como raiz quadrada e porcentagem. Também inclui botões para limpar a tela, apagar o último caractere digitado e calcular o resultado.
+## Tecnologias Utilizadas
+- Linguagem: Java
+- Interface Gráfica: Swing (javax.swing)
 
-Por meio da interação com os botões da interface, o usuário pode realizar operações matemáticas básicas, visualizando os números e operadores inseridos na tela e obtendo os resultados instantaneamente. A interface é projetada de forma responsiva, adaptando-se a diferentes tamanhos de tela para proporcionar uma experiência consistente em diversos dispositivos.
+## Como Executar
+1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado.
+2. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+3. Navegue até o diretório do projeto:
+   ```sh
+   cd nome-do-repositorio
+   ```
+4. Compile o código:
+   ```sh
+   javac Calculation.java
+   ```
+5. Execute o programa:
+   ```sh
+   java Calculation
+   ```
 
-Implementada em Java, a calculadora utiliza o framework Swing para criar e gerenciar a interface gráfica, aproveitando as capacidades do JFrame para criar janelas interativas e componentes como botões e campos de texto. O código-fonte é estruturado de forma modular e organizada, facilitando a manutenção e aprimoramento da aplicação.
+## Captura de Tela
+Adicione aqui uma captura de tela da interface da calculadora.
 
-Em resumo, a calculadora desenvolvida em Java com Swing JFrame é uma ferramenta versátil e eficiente para realizar cálculos aritméticos de forma rápida e prática, proporcionando uma experiência de usuário intuitiva e acessível.
+## Contribuição
+Contribuições são bem-vindas! Siga os passos abaixo:
+1. Faça um fork do repositório.
+2. Crie uma nova branch:
+   ```sh
+   git checkout -b minha-nova-feature
+   ```
+3. Faça as alterações e comite:
+   ```sh
+   git commit -m "Adicionando nova funcionalidade"
+   ```
+4. Envie para o repositório remoto:
+   ```sh
+   git push origin minha-nova-feature
+   ```
+5. Abra um Pull Request.
 
-# Foto da Aplicação
+## Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Autor
+Desenvolvido por [Seu Nome](https://github.com/ewertondrigues02).
 
 
-![Imagen da calculadora em java](https://github.com/ewertondrigues02/calculadora-java/assets/106437473/d6af02bc-fd3b-4df8-a82a-f96089a52e0c)
